@@ -1,0 +1,8 @@
+tests\SampleTest.class
+com\prerak\automation\framework\BaseTest.class
+page\objects\SampleObjects.class
+com\prerak\automation\framework\ReadPropertiesFile.class
+com\prerak\automation\framework\Driver.class
+com\prerak\automation\framework\BasePageActions.class
+page\actions\SampleActions.class
+com\prerak\automation\framework\Reports.class
